@@ -47,9 +47,9 @@
             label1.AutoSize = true;
             label1.Location = new Point(300, 68);
             label1.Name = "label1";
-            label1.Size = new Size(132, 20);
+            label1.Size = new Size(112, 20);
             label1.TabIndex = 1;
-            label1.Text = "Inclusive puedo cambiar el texto del label";
+            label1.Text = "Esto todavia no";
             // 
             // Form1
             // 

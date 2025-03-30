@@ -49,7 +49,7 @@
             label1.Name = "label1";
             label1.Size = new Size(132, 20);
             label1.TabIndex = 1;
-            label1.Text = "Prueba de Cambio";
+            label1.Text = "Inclusive puedo cambiar el texto del label";
             // 
             // Form1
             // 

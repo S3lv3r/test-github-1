@@ -9,7 +9,7 @@ namespace WinFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Esto es antes del cambio remoto");
+            MessageBox.Show("Ahora ya se hizo pull");
         }
     }
 }

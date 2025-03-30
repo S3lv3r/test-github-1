@@ -9,7 +9,7 @@ namespace WinFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Ahora ya se hizo pull");
+            MessageBox.Show("Solo quiero cambiar esto");
         }
     }
 }
